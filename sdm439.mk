@@ -111,6 +111,7 @@ PRODUCT_PACKAGES += \
     android.hardware.camera.provider@2.4-service \
     libstdc++.vendor \
     Snap
+    FootejCamera
 
 PRODUCT_PACKAGES += \
     libwa_dof
